@@ -135,7 +135,8 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -593,6 +594,7 @@ PlayerSettings:
     1: CROSS_PLATFORM_INPUT;STARTER_ASSETS_PACKAGES_CHECKED
     4: CROSS_PLATFORM_INPUT;MOBILE_INPUT
     7: CROSS_PLATFORM_INPUT;MOBILE_INPUT
+    13: STARTER_ASSETS_PACKAGES_CHECKED
     14: MOBILE_INPUT
   additionalCompilerArguments: {}
   platformArchitecture: {}
