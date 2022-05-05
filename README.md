@@ -1,4 +1,4 @@
-# RunnerGame
+# TwoWorlds
 Title: Two Worlds
 Platform: PC Game
 Genre: Platformer
